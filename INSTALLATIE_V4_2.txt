@@ -1,0 +1,16 @@
+KRIJLENS AUTOMOTIVE V4.2 – PREMIUM VERKOOPAKTE
+
+Deze update is gebaseerd op de aangeleverde GitHub-projectbestanden.
+
+Toegevoegd/aangepast:
+- Gouden KrijLens Automotive woordmerk met KA-embleem (logo-lockup.png).
+- Logo in app-header, cloud-login, contractweergave en PDF.
+- Verkoperkeuze: Quinten Erkelens of Dylan Krijgsman.
+- Aanvullende commerciële garantie + vrije voorwaarden.
+- Herontworpen PDF met nette secties, tabellen, twee handtekeningvakken naast elkaar en paginanummers.
+- Service-worker cacheversie verhoogd.
+
+Upload alle bestanden uit deze map naar de hoofdmap van de bestaande GitHub-repository en commit. Overschrijf bestaande bestanden als daarom wordt gevraagd.
+Voer GEEN SQL opnieuw uit. Maak eerst een JSON-back-up via de app.
+
+Let op: test de PDF en synchronisatie met testverkoop voordat je dit voor echte contracten gebruikt. Laat contracttekst juridisch controleren.
