@@ -45,3 +45,11 @@ V4.3: Het door de gebruiker aangeleverde originele KrijLens Automotive-logo is v
 De iPhone-/PWA-iconen zijn nu opnieuw opgebouwd uit het originele KE-embleem dat de eigenaar heeft aangeleverd, in champagnegoud op donker marineblauw. De bestanden `icon-192.png`, `icon-512.png`, `apple-touch-icon.png` en `favicon-64.png` zijn vervangen. De service-worker-cache is verhoogd naar `krijlens-v44-exact-app-icon`.
 
 Na publiceren op GitHub Pages: verwijder op de iPhone het oude KrijLens-beginschermicoon, open de website opnieuw in Safari en kies Deel > Zet op beginscherm. iOS kan het oude icoon namelijk blijven cachen.
+
+
+## V4.5 – Handtekeningen
+- Verkoper kiezen bij verkoop (Quinten Erkelens of Dylan Krijgsman).
+- Handtekeningen naast elkaar in aparte vakken.
+- Naam van verkoper en koper duidelijk onder de handtekening.
+- PDF-handtekeningen groter en met betere witruimte.
+- Service worker cache vernieuwd.
